@@ -1,2 +1,2 @@
 # simple-auth
-spring security auth  demo for java
+spring security basic auth demo
